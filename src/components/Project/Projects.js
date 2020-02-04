@@ -1,9 +1,10 @@
 import React from 'react';
 import data from '../resume2';
+import styles from './Projects.css';
 
 export default function Education() {
   return (
-    <div>
+    <div className={styles.projects}>
       <h1>Projects</h1>
       <h2>{data.Projects[0].title}</h2>
       <p><i>{data.Projects[0].tech}</i></p>

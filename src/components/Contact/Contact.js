@@ -1,9 +1,10 @@
 import React from 'react';
 import data from '../resume2';
+import styles from './Contact.css';
 
 export default function Contact() {
   return (
-    <div>
+    <div className={styles.contact}>
       <p>
         <b>Profile:</b> {data.Profile.summary}{' '}
       </p>

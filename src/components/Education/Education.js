@@ -1,9 +1,10 @@
 import React from 'react';
 import data from '../resume2';
+import styles from './Education.css';
 
 export default function Education() {
   return (
-    <div>
+    <div className={styles.education}>
       <h2>Education</h2>
 
       <p>

@@ -4,6 +4,8 @@ import data from '../resume2';
 export default function Education() {
   return (
     <div>
+      <h2>Education</h2>
+
       <p>
         <b>{data.Education[0].school}</b> -
         {data.Education[0].description[0].endDate}
@@ -15,7 +17,6 @@ export default function Education() {
         {data.Education[1].description[0].endDate}
       </p>
       <p>{data.Education[1].description[0].description}</p>
-     
     </div>
   );
 }

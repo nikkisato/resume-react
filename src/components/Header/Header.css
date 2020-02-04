@@ -1,5 +1,8 @@
 .header {
   width: 100%;
-  height: 200px;
+  height: 100px;
   text-align: center;
+  background-image: linear-gradient(red, yellow, blue);
+margin:0;
 }
+

@@ -1,6 +1,6 @@
 import React from 'react';
-import Header from './Header/Header';
+import Resume from '../container/Resume';
 
 export default function App() {
-  return <Header />;
+  return <Resume />;
 }

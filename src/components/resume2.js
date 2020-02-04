@@ -1,4 +1,10 @@
 export default {
+  Profile: { 
+    summary:
+      'Full Stack Developer with a passion for front-end web development and design. Programming is one of the ways to express my creativity and I look forward to being able to hone my skills in a collaborative and dynamic environment.'
+  }
+   
+  ,
   SocialMedias: [
     'https://github.com/nikkisato',
     'https://www.linkedin.com/nikkisato',

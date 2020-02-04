@@ -118,7 +118,7 @@ export default {
       ]
     },
     {
-      companyName: 'Alchemy Code Lab',
+      school: 'Alchemy Code Lab',
       description: [
         {
           description: 'Full Stack Developer',

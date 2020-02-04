@@ -12,9 +12,10 @@ export default function Education() {
 
       <p>
         <b>{data.Education[1].school}</b> -
-        {data.Education[1].description[1].endDate}
+        {data.Education[1].description[0].endDate}
       </p>
-      <p>{data.Education[1].description[1].description}</p>
+      <p>{data.Education[1].description[0].description}</p>
+     
     </div>
   );
 }

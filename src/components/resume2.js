@@ -1,10 +1,9 @@
 export default {
-  Profile: { 
+  Profile: {
     summary:
       'Full Stack Developer with a passion for front-end web development and design. Programming is one of the ways to express my creativity and I look forward to being able to hone my skills in a collaborative and dynamic environment.'
-  }
-   
-  ,
+  },
+
   SocialMedias: [
     'https://github.com/nikkisato',
     'https://www.linkedin.com/nikkisato',
@@ -127,6 +126,27 @@ export default {
           location: 'Portland, Oregon'
         }
       ]
+    }
+  ],
+
+  Projects: [
+    {
+      title: 'CovrLettr',
+      tech: 'Express, MongoDB, Node.js, Javascript',
+      description:
+        'Writing Cover Letters for people who are entering the software developer field. The program will ask a series of questions, take in user input, and output a customized cover letter. Currently a Backend Project for the moment.'
+    },
+    {
+      title: 'Nag Me',
+      tech: 'PostgresSQL, Express, Node.js, Javascript',
+      description:
+        'NagMe is the super proactive task and reminder app, that uses Pushover (push notifications) to send notifications to your phone. Users can add, update, delete Nags'
+    },
+    {
+      title: 'Guess Who',
+      tech: 'Vanilla Javascript, HTML/CSS',
+      description:
+        'The classic Guess Who board game is now online. Used a different set of characters (aliens) to make a different experience of the game. Used local storage to persist user data and leaderboards.'
     }
   ]
 };

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Header from '../components/Header/Header';
 import Contact from '../components/Contact/Contact';
 import Education from '../components/Education/Education';
-
+import Skills from '../components/Skills/Skills';
 export default class Resume extends Component {
   state = {};
 
@@ -11,6 +11,7 @@ export default class Resume extends Component {
       <>
         <Header />
         <Contact />
+        <Skills />
         <Education />
       </>
     );

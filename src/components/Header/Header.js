@@ -3,7 +3,6 @@ import styles from './Header.css';
 import data from '../resume2';
 
 export default function Header() {
-  console.log(data);
   return (
     <header className={styles.header}>
       <h1>{data.contact[0].name}</h1>

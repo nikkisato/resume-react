@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact component renders Contact 1`] = `
+<div
+  className="contact"
+>
+  <p>
+    <b>
+      Profile:
+    </b>
+     
+    Full Stack Developer with a passion for front-end web development and design. Programming is one of the ways to express my creativity and I look forward to being able to hone my skills in a collaborative and dynamic environment.
+     
+  </p>
+  <p>
+    <b>
+      Email: 
+    </b>
+    Nikki.satopdx@gmail.com
+  </p>
+  <p>
+    <b>
+      Website:
+    </b>
+    www.nikkisato.com
+  </p>
+  <p>
+    <b>
+      Phone:
+    </b>
+     
+    (503)-858-7070
+  </p>
+</div>
+`;

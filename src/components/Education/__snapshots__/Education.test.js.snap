@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Education component renders Education 1`] = `
+<div
+  className="education"
+>
+  <h2>
+    Education
+  </h2>
+  <p>
+    <b>
+      Portland state University
+    </b>
+     -
+    2019
+  </p>
+  <p>
+    BA Advertising and Marketing, Minor in Photography and Design Management
+  </p>
+  <p>
+    <b>
+      Alchemy Code Lab
+    </b>
+     -
+    2020
+  </p>
+  <p>
+    Full Stack Developer
+  </p>
+</div>
+`;

@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Projects component renders Projects 1`] = `
+<div
+  className="projects"
+>
+  <h1>
+    Projects
+  </h1>
+  <h2>
+    CovrLettr
+  </h2>
+  <p>
+    <i>
+      Express, MongoDB, Node.js, Javascript
+    </i>
+  </p>
+  <p>
+    Writing Cover Letters for people who are entering the software developer field. The program will ask a series of questions, take in user input, and output a customized cover letter. Currently a Backend Project for the moment.
+  </p>
+  <h2>
+    Nag Me
+  </h2>
+  <p>
+    <i>
+      PostgresSQL, Express, Node.js, Javascript
+    </i>
+  </p>
+  <p>
+    NagMe is the super proactive task and reminder app, that uses Pushover (push notifications) to send notifications to your phone. Users can add, update, delete Nags
+  </p>
+  <h2>
+    Guess Who
+  </h2>
+  <p>
+    <i>
+      Vanilla Javascript, HTML/CSS
+    </i>
+  </p>
+  <p>
+    The classic Guess Who board game is now online. Used a different set of characters (aliens) to make a different experience of the game. Used local storage to persist user data and leaderboards.
+  </p>
+</div>
+`;

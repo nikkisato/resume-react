@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Experience component renders Experience 1`] = `
+<div>
+  <h1>
+    Experience
+  </h1>
+  <h2>
+    Phototainment
+  </h2>
+  <p>
+    Title: 
+    Photographer
+  </p>
+  <p>
+    Start Date: 
+    2018
+  </p>
+  <p>
+    End Date: 
+    Present
+  </p>
+  <h2>
+    Portland State University
+  </h2>
+  <p>
+    Title: 
+    Helpdesk and Desktop Service Tech
+  </p>
+  <p>
+    Start Date: 
+    2018
+  </p>
+  <p>
+    End Date: 
+    Present
+  </p>
+</div>
+`;
